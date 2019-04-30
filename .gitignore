@@ -1,0 +1,6 @@
+../react-practice-master/node_modules
+bower_components
+
+.idea
+
+public/bundle.js
